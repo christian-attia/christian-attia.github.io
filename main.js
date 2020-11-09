@@ -247,7 +247,7 @@ class SummaryComponent {
             typeSpeed: 100,
             backSpeed: 50,
             showCursor: true,
-            cursorChar: 'mark',
+            cursorChar: '|',
             loop: true
         };
         const hobbies = {
